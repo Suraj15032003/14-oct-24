@@ -76,7 +76,5 @@ public class avg {
 	            System.out.println("Multiplication: " + product);
 	        }
 
-	        
-		
     }
 }
